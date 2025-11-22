@@ -1,0 +1,5 @@
+outs:
+- md5: 1707a54648dab05354dbec1ca51e9d29
+  size: 290192
+  hash: md5
+  path: anecdotes.csv
